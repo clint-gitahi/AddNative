@@ -1,5 +1,5 @@
 // https://hackernoon.com/how-to-develop-android-ui-component-for-react-native-43b121272eb8
-
+// https://gist.github.com/chourobin/f83f3b3a6fd2053fad29fff69524f91c
 import React, { Component } from "react";
 import { Platform, StyleSheet, Text, View } from "react-native";
 import VideoView from "./CreateVideoView";
